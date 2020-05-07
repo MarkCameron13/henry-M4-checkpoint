@@ -1,0 +1,8 @@
+{
+	"root": true,
+	"extends": "fullstack",
+	"parser": "babel-eslint",
+	"rules": {
+		"semi": 0
+	}
+}

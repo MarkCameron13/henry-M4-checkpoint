@@ -1,0 +1,6 @@
+node_modules/
+.idea
+**/*.solution.js
+npm-debug.log
+bundle.js
+bundle.js.map
